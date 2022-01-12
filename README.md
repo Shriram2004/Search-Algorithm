@@ -131,6 +131,8 @@ ii) # Binary Search
 ### Output 
 
 i) # Linear Search
+
+
 ![output](1.png)
 
 
