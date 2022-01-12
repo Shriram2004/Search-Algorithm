@@ -122,9 +122,12 @@ else:
 
 
 i) # Linear Search
+
 ![sampleinput](s1.png)
 
 ii) # Binary Search
+
+
 ![sampleinput](s2.png)
 
 
